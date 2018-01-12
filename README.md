@@ -1,4 +1,4 @@
-[Insights](https://github.com/venkatakrishnareddymallu/Gramener_Intern/blob/master/intern_Gramener.ipynb)  from this project
+[Insights](https://s3.ap-south-1.amazonaws.com/interngramener/web_app1.html)  from this project
 
 [Github repo](https://github.com/venkatakrishnareddymallu/Gramener_Intern) for the project.
 
