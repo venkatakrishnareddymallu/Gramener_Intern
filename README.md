@@ -12,7 +12,6 @@ The packages used include :
 * `pandas`
 * `numpy`
 * `seaborn`
-* `sklearn`
 * `matplotlib`
 
 
