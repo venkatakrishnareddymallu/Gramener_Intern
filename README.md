@@ -1,6 +1,4 @@
-I thank Gramener team for giving me an opportunity to apply for internship in Product Development.
-I worked on usecase 1 National Achievements survey and found the problem interesting. 
-
+I worked on usecase National Achievements survey and found the problem interesting dataset provided by [gramener](https://www.gramener.com). 
 
 [Insights](https://s3.ap-south-1.amazonaws.com/interngramener/webbbb.html)  from this project
 
