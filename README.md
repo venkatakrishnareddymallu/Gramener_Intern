@@ -15,4 +15,4 @@ The packages used include :
 ## Data
 Datasets used for analysis is provided by "Gramener" and can be found in `gramener-usecase-nas`. The dataset is based on the national achievement survey conducted by NCERT for 8th grade students.
 
-### This also include Python and Javascript solutions
+### This also include Python and Javascript Solutions
